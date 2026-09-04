@@ -2,7 +2,7 @@
 
 Sistema de gestão real, em produção, de um cliente (fábrica de colchões e estofados). Testado com autorização do proprietário, contra um ambiente de teste isolado (sem dados reais de produção).
 
-> Este repositório contém apenas o material de QA (planilha, relatório de bugs, testes automatizados). O código-fonte da aplicação não está incluído, por ser propriedade do cliente.
+> O código-fonte da aplicação não está incluído, por ser um software proprietário licenciado sob contrato de uso ao cliente.
 
 **Autor:** Ryan Morais
 **Período da rodada:** agosto de 2026
